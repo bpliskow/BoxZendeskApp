@@ -1,0 +1,17 @@
+{
+  "name": "Insert from Box!",
+  "author": {
+    "name": "Brent Pliskow",
+    "email": "brent@box.com",
+    "url": "https://www.box.com"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": {
+    "support": {
+      "ticket_editor": "assets/iframe.html"
+    }
+  },
+  "version": "1.0",
+  "frameworkVersion": "2.0"
+}
